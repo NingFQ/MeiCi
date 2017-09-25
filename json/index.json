@@ -1,0 +1,221 @@
+{
+	"banner" : [
+		"../images/index/banner1.jpg",
+		"../images/index/banner2.jpg",
+		"../images/index/banner3.jpg",
+		"../images/index/banner4.jpg",
+		"../images/index/banner5.jpg",
+		"../images/index/banner6.jpg",
+		"../images/index/banner7.jpg",
+		"../images/index/banner8.jpg",
+		"../images/index/banner9.jpg",
+		"../images/index/banner10.jpg",
+		"../images/index/banner1.jpg"
+	],
+	"module1" : [
+		"../images/index/module1-item1.jpg",
+		"../images/index/module1-item2.jpg",
+		"../images/index/module1-item3.jpg",
+		"../images/index/module1-item4.jpg",
+		"../images/index/module1-item5.jpg"
+	],
+	
+	"module2" : [
+		"../images/index/module2-item1.jpg",
+		"../images/index/module2-item2.jpg",
+		"../images/index/module2-item3.jpg",
+		"../images/index/module2-item4.jpg",
+		"../images/index/module2-item5.jpg"
+	],
+	"module3" : [
+		"../images/index/module3-item1.jpg",
+		"../images/index/module3-item2.jpg",
+		"../images/index/module3-item3.jpg",
+		"../images/index/module3-item4.jpg",
+		"../images/index/module3-item5.jpg"
+	],
+	"goods" : [
+		{
+			"src" : "../images/index/slide1.jpg",
+			"title" : "棉 男士 短袖T恤",
+			"brand" : "Versace Collection", 
+			"descript" : "范思哲系列",
+			"stage" : "已被购买"
+		},
+		{
+			"src" : "../images/index/slide2.jpg",
+			"title" : "DIOR迪奥时尚男士太阳镜AL13.2 T5Z SS",
+			"brand" : "Dior", 
+			"descript" : "迪奥",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide3.jpg",
+			"title" : "棉质 男仕 短袖T恤",
+			"brand" : "David Mayer Naman ", 
+			"descript" : "大卫·麦野",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide4.jpg",
+			"title" : "100% 聚酯纤维 女士 伞具",
+			"brand" : "Armani ", 
+			"descript" : "阿玛尼",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide5.jpg",
+			"title" : "皮革 男士 手提包",
+			"brand" : "Porsche Design", 
+			"descript" : "保时捷",
+			"stage" : "已加入收藏"
+		},
+				{
+			"src" : "../images/index/slide6.jpg",
+			"title" : "棉 男士 短袖T恤",
+			"brand" : "Versace Collection", 
+			"descript" : "范思哲系列",
+			"stage" : "已被购买"
+		},
+		{
+			"src" : "../images/index/slide7.jpg",
+			"title" : "DIOR迪奥时尚男士太阳镜AL13.2 T5Z SS",
+			"brand" : "Dior", 
+			"descript" : "迪奥",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide8.jpg",
+			"title" : "棉质 男仕 短袖T恤",
+			"brand" : "David Mayer Naman ", 
+			"descript" : "大卫·麦野",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide9.jpg",
+			"title" : "100% 聚酯纤维 女士 伞具",
+			"brand" : "Armani ", 
+			"descript" : "阿玛尼",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide10.jpg",
+			"title" : "皮革 男士 手提包",
+			"brand" : "Porsche Design", 
+			"descript" : "保时捷",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide11.jpg",
+			"title" : "棉 男士 短袖T恤",
+			"brand" : "Versace Collection", 
+			"descript" : "范思哲系列",
+			"stage" : "已被购买"
+		},
+		{
+			"src" : "../images/index/slide12.jpg",
+			"title" : "DIOR迪奥时尚男士太阳镜AL13.2 T5Z SS",
+			"brand" : "Dior", 
+			"descript" : "迪奥",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide13.jpg",
+			"title" : "棉质 男仕 短袖T恤",
+			"brand" : "David Mayer Naman ", 
+			"descript" : "大卫·麦野",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide14.jpg",
+			"title" : "100% 聚酯纤维 女士 伞具",
+			"brand" : "Armani ", 
+			"descript" : "阿玛尼",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide15.jpg",
+			"title" : "皮革 男士 手提包",
+			"brand" : "Porsche Design", 
+			"descript" : "保时捷",
+			"stage" : "已加入收藏"
+		},
+				{
+			"src" : "../images/index/slide16.jpg",
+			"title" : "棉 男士 短袖T恤",
+			"brand" : "Versace Collection", 
+			"descript" : "范思哲系列",
+			"stage" : "已被购买"
+		},
+		{
+			"src" : "../images/index/slide17.jpg",
+			"title" : "DIOR迪奥时尚男士太阳镜AL13.2 T5Z SS",
+			"brand" : "Dior", 
+			"descript" : "迪奥",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide18.jpg",
+			"title" : "棉质 男仕 短袖T恤",
+			"brand" : "David Mayer Naman ", 
+			"descript" : "大卫·麦野",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide19.jpg",
+			"title" : "100% 聚酯纤维 女士 伞具",
+			"brand" : "Armani ", 
+			"descript" : "阿玛尼",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide20.jpg",
+			"title" : "皮革 男士 手提包",
+			"brand" : "Porsche Design", 
+			"descript" : "保时捷",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide1.jpg",
+			"title" : "棉 男士 短袖T恤",
+			"brand" : "Versace Collection", 
+			"descript" : "范思哲系列",
+			"stage" : "已被购买"
+		},
+		{
+			"src" : "../images/index/slide2.jpg",
+			"title" : "DIOR迪奥时尚男士太阳镜AL13.2 T5Z SS",
+			"brand" : "Dior", 
+			"descript" : "迪奥",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide3.jpg",
+			"title" : "棉质 男仕 短袖T恤",
+			"brand" : "David Mayer Naman ", 
+			"descript" : "大卫·麦野",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide4.jpg",
+			"title" : "100% 聚酯纤维 女士 伞具",
+			"brand" : "Armani ", 
+			"descript" : "阿玛尼",
+			"stage" : "已加入购物袋"
+		},
+		{
+			"src" : "../images/index/slide5.jpg",
+			"title" : "皮革 男士 手提包",
+			"brand" : "Porsche Design", 
+			"descript" : "保时捷",
+			"stage" : "已加入收藏"
+		},
+		{
+			"src" : "../images/index/slide6.jpg",
+			"title" : "棉 男士 短袖T恤",
+			"brand" : "Versace Collection", 
+			"descript" : "范思哲系列",
+			"stage" : "已被购买"
+		}
+	]
+}

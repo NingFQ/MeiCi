@@ -1,0 +1,31 @@
+{
+	"item1" :  {
+		"src" : [
+			"../images/details/1.jpg",
+			"../images/details/2.jpg",
+			"../images/details/3.jpg",
+			"../images/details/4.jpg",
+			"../images/details/5.jpg",
+			"../images/details/6.jpg"
+		],
+		"id" : "1",
+		"brand" : "Prada 普拉达",
+		"name" : "牛皮 女士 短钱包",
+		"price" : "5875.00",
+		"color" : "black"
+	},
+	"item2" :  {
+		"src" : [
+			"../images/details/1_.jpg",
+			"../images/details/2_.jpg",
+			"../images/details/3_.jpg",
+			"../images/details/4_.jpg",
+			"../images/details/5_.jpg"
+		],
+		"id" : 2,
+		"brand" : "Alexander McQueen 亚历山大·麦",
+		"name" : "17春夏新款 牛皮 女士 休闲板鞋",
+		"price" : "3310.00",
+		"color" : "red"
+	}	
+}
