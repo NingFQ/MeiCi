@@ -703,7 +703,6 @@ li {
         #mc-part4 #mc-shopcar-container .mc-shopcar-middle .mc-mid-dele p {
           cursor: pointer; }
     #mc-part4 #mc-shopcar-container .mc-shopcar-bottom {
-      display: none;
       width: 1200px;
       height: 150px;
       margin-top: 10px;
@@ -734,8 +733,8 @@ li {
       #mc-part4 #mc-shopcar-container .mc-shopcar-bottom .mc-bom-back {
         width: 145px;
         height: 48px;
+        display: block;
         margin-left: 50px;
-        background: pink;
         text-align: center;
         line-height: 48px;
         cursor: pointer; }
